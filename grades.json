@@ -1,0 +1,64 @@
+[
+  {
+    "idnum" : "1501-01021",
+    "name" : "John Larry G. Leones",
+    "grades" : {
+      "cosc" : 3.0,
+      "socs" : 2.0,
+      "math" : 1.0,
+      "dcit" : 4.0,
+      "cosc75" : 3.0
+    }
+  },
+  {
+    "idnum" : "1501-00974",
+    "name" : "Marylene Mendoza",
+    "grades" : {
+      "cocs" : 2.0,
+      "math" : 1.0
+    }
+  },
+  {
+    "idnum" : "1501-00994",
+    "name" : "Antonio Katipunan",
+    "grades" : {
+      "cosc" : 5.0
+    }
+  },
+  {
+    "idnum" : "1501-00607",
+    "name" : "Derick Eugenio",
+    "grades" : {}
+  },
+  {
+    "idnum" : "1501-00662",
+    "name" : "Ronnie Calayag",
+    "grades" : {
+      "cos" : 4.0
+    }
+  },
+  {
+    "idnum" : "1501-00311",
+    "name" : "Caryl Anne Mendoza",
+    "grades" : {
+      "cos" : 3.0
+    }
+  },
+  {
+    "idnum" : "1501-00628",
+    "name" : "Gamboa ivy g",
+    "grades" : {
+      "cosc" : 65.0,
+      "dcit" : 75.0,
+      "humn5" : 90.0,
+      "humn6" : 95.0
+    }
+  },
+  {
+    "idnum" : "1501-00011",
+    "name" : "John Lennon",
+    "grades" : {
+      "cocs10" : 3.0
+    }
+  }
+]
